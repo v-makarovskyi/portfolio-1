@@ -38,5 +38,4 @@ function App() {
 
 export default App;
 
-/* I created an entire portfolio website with ReactJS. Here I used very few libraries and made an unusual design.
- */
+ 
