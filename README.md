@@ -15,6 +15,11 @@ This website has five pages:
 
 ![main](https://user-images.githubusercontent.com/95641884/150649519-8feaa515-29ba-4618-b5e4-e2d8b7ef42e9.png)
 
+#### Main-1
+
+![main-1](https://user-images.githubusercontent.com/95641884/150650053-1cdc5c33-44e0-46f9-abae-49a262c308c0.png)
+
+
 #### AboutPage
 
 ![aboutpage](https://user-images.githubusercontent.com/95641884/150649553-f305e2fe-3c93-4f00-bca1-0b05d6e831e2.png)
